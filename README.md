@@ -8,4 +8,5 @@ I ensured that all code and solutions were thoroughly reviewed, tested, and unde
 ## Website: https://www.homeandlearn.org/the_vba_developer_toolbar.html#google_vignette
 ## Various YouTube Videos
 ## Link
+## On Dec 19th, took some guidance from John Adamucci( Bootcamp partner)
 https://github.com/gbadrain/VBA-challenge.git
